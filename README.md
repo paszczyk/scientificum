@@ -1,2 +1,2 @@
 # scientificum
-Scientific journal publishing platform
+A scientific journal publishing platform
